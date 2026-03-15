@@ -1,9 +1,16 @@
 # 👋 Hola, soy Joel Ever
-
-💻 QA Engineer enfocado en pruebas manuales y automatización para garantizar la calidad del software.
-
 ## 🚀 Sobre mí
-Soy QA Engineer con formación en testing de software. Me enfoco en la detección temprana de bugs, validación de funcionalidades y mejora continua de productos digitales.
+💻 QA Engineer con experiencia en pruebas de software en entornos ágiles, participando en el diseño y ejecución de casos
+de prueba manuales y en el apoyo a procesos de automatización. Familiarizado con el reporte y seguimiento de defectos,
+asegurando la correcta documentación y comunicación con equipos de desarrollo para mejorar la calidad del producto.
+
+He trabajado con herramientas como Postman, Selenium, Playwright, Jira, Figma y SQL para validar funcionalidades,
+revisar flujos de usuario y apoyar en la verificación de datos. Me caracterizo por mi atención al detalle, pensamiento
+analítico y disposición para aprender continuamente, contribuyendo a la detección temprana de errores y a la mejora
+constante de los procesos de prueba.
+
+Actualmente busco una oportunidad como QA Engineer donde pueda seguir desarrollando mis habilidades en
+aseguramiento de calidad y colaborar en la entrega de productos confiables y bien documentados.
 
 ## ⚙️ Tecnologías
 
