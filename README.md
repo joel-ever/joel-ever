@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hola, soy Joel Ever
 
-<!--
-**joel-ever/joel-ever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 QA Engineer apasionado por el aseguramiento de calidad del software.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
+Soy QA Engineer con formación en testing manual y automatización. 
+Me enfoco en detectar defectos, mejorar procesos de prueba y asegurar la calidad de productos digitales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧪 Tecnologías y herramientas
+- Postman
+- Selenium
+- Playwright
+- SQL
+- Python
+- Jira
+- GitHub
+
+## 📂 Proyectos
+🔹 Urban Grocers – API Testing  
+🔹 Urban Routes – Web Testing  
+🔹 Test Design & Regression Testing
