@@ -12,19 +12,19 @@ constante de los procesos de prueba.
 Actualmente busco una oportunidad como QA Engineer donde pueda seguir desarrollando mis habilidades en
 aseguramiento de calidad y colaborar en la entrega de productos confiables y bien documentados.
 ## 🧠 Habilidades técnicas
-Automatización de Pruebas: Selenium | Cypress
+🤖 Automatización de Pruebas: Selenium | Cypress
 
-Lenguajes: Python | SQL
+🐍 Lenguajes: Python | SQL
 
-Pruebas de API: Postman | Apidog
+🔌 Pruebas de API: Postman | Apidog
 
-Tipos de Pruebas: Funcionales, No Funcionales y Regresión
+⚖️ Tipos de Pruebas: Funcionales, No Funcionales y Regresión
 
-Metodologías y Gestión: Agile | Scrum | Jira
+🏃 Metodologías y Gestión: Agile | Scrum | Jira
 
-Plataformas Móviles: Android Studio
+📱 Plataformas Móviles: Android Studio
 
-Control de Versiones: Git | GitHub
+🐙 Control de Versiones: Git | GitHub
 ## 🛠️ Tecnologías y Herramientas
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
