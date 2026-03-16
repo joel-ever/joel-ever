@@ -91,8 +91,23 @@ aseguramiento de calidad y colaborar en la entrega de productos confiables y bie
     ![Logic Validation](https://img.shields.io/badge/-Logic%20Validation-FFD700?style=flat&logoColor=black)
 
 * **🏗️ Enfoque:** Análisis de requisitos, Clases de Equivalencia, Valores Límite y Documentación de Pruebas.
-
 ---
+### 🔄 [Pruebas de Regresión - Urban Routes](https://github.com/tu-usuario/urban-routes-regression) | TripleTen (2026)
+
+> Garantía de estabilidad continua mediante la ejecución sistemática de pruebas tras actualizaciones críticas del sistema.
+
+* **🎯 Desempeño y Logros:**
+    * **Mantenimiento de Estabilidad:** Ejecuté ciclos de regresión exhaustivos, logrando la **detección temprana de regresiones** (errores en funciones que ya funcionaban) tras nuevas actualizaciones de la plataforma.
+    * **Estandarización de Documentación:** Diseñé una estructura robusta para el registro de casos de prueba y reportes de errores en **Google Sheets**, optimizando la trazabilidad y el control de resultados.
+    * **Gestión de Incidencias:** Analicé y validé funcionalidades existentes para asegurar que los cambios recientes no impactaran negativamente la experiencia del usuario final.
+
+* **🛠️ Herramientas & Skills:**
+    ![Regresión](https://img.shields.io/badge/-Regression%20Testing-7B68EE?style=flat)
+    ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
+    ![Error Tracking](https://img.shields.io/badge/-Error%20Tracking-EB4034?style=flat)
+    ![Quality Assurance](https://img.shields.io/badge/-QA-blue?style=flat)
+
+* **🏗️ Enfoque:** Análisis de impacto, Validación de funcionalidades core, Documentación técnica y Seguimiento de incidencias.
 ## 📬 Contacto & Redes
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joele1819@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-ever)
