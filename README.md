@@ -39,12 +39,8 @@ aseguramiento de calidad y colaborar en la entrega de productos confiables y bie
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![TestRail](https://img.shields.io/badge/TestRail-65C179?style=for-the-badge)
 ## 📂 Proyectos
-🔹 Urban Grocers – API Testing con Postman  
-🔹 Urban Routes – Pruebas Web Manuales  
-🔹 Diseño de Casos de Prueba y Pruebas de Regresión
-### 🚀 Proyectos Destacados
 
-#### 🔗 [Pruebas de API - Urban Grocers](https://github.com/tu-usuario/nombre-repo)
+#### 🔗 [Pruebas de API - Urban Grocers]
 > Diseñé y ejecuté pruebas de API para múltiples endpoints del sistema, lo que resultó en la validación de operaciones
 como creación de kits y agregación de productos, usando Postman para enviar solicitudes HTTP (GET, POST) y
 verificar respuestas en formato JSON.
