@@ -24,9 +24,7 @@ aseguramiento de calidad y colaborar en la entrega de productos confiables y bie
 | **📱 Mobile QA** | ![Android Studio](https://img.shields.io/badge/-Android%20Studio-%233DDC84?style=flat-square&logo=android-studio&logoColor=white) |
 | **🐙 Versionado** | ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github&logoColor=white) |
 
-
 ## 🛠️ Tecnologías y Herramientas
-
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Apidog](https://img.shields.io/badge/Apidog-00BFA5?style=for-the-badge&logo=swagger&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
