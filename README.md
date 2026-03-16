@@ -49,3 +49,12 @@ aseguramiento de calidad y colaborar en la entrega de productos confiables y bie
 * 📧 **Email:** [![Email](https://img.shields.io/badge/joele1819@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:joele1819@gmail.com)
 * 💼 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/joel--ever-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-ever)
 
+<div align="center">
+  <h3>📬 Contacto & Redes</h3>
+  <a href="mailto:joele1819@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/joel-ever">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
