@@ -44,6 +44,8 @@ aseguramiento de calidad y colaborar en la entrega de productos confiables y bie
 🔹 Urban Grocers – API Testing con Postman  
 🔹 Urban Routes – Pruebas Web Manuales  
 🔹 Diseño de Casos de Prueba y Pruebas de Regresión
-## 📫 Conecta conmigo
-🔹 ✉️ Correo:joele1819@gmail.com
-🔹 💼 LinkedIn
+## 📬 Contacto & Redes
+📧 Email: joele1819@gmail.com
+
+🔗 LinkedIn: www.linkedin.com/in/joel-ever
+
