@@ -12,7 +12,7 @@ constante de los procesos de prueba.
 Actualmente busco una oportunidad como QA Engineer donde pueda seguir desarrollando mis habilidades en
 aseguramiento de calidad y colaborar en la entrega de productos confiables y bien documentados.
 
-## ⚙️ Tecnologías y Herramientas
+## 🛠️ Tecnologías y Herramientas
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Apidog](https://img.shields.io/badge/Apidog-00BFA5?style=for-the-badge&logo=swagger&logoColor=white)
@@ -31,3 +31,6 @@ aseguramiento de calidad y colaborar en la entrega de productos confiables y bie
 🔹 Urban Grocers – API Testing con Postman  
 🔹 Urban Routes – Pruebas Web Manuales  
 🔹 Diseño de Casos de Prueba y Pruebas de Regresión
+## 📫 Conecta conmigo
+✉️ Correo: parana2809@gmail.com
+💼 LinkedIn
