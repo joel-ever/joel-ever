@@ -34,6 +34,7 @@ aseguramiento de calidad y colaborar en la entrega de productos confiables y bie
 | **🐍 Lenguajes & DB** | ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-%23CC2927?style=flat-square&logo=sqlite&logoColor=white) |
 | **🔌 API Testing** | ![Postman](https://img.shields.io/badge/-Postman-%23FF6C37?style=flat-square&logo=postman&logoColor=white) ![Apidog](https://img.shields.io/badge/-Apidog-%2300C2C2?style=flat-square) |
 | **📱 Mobile QA** | ![Android Studio](https://img.shields.io/badge/-Android%20Studio-%233DDC84?style=flat-square&logo=android-studio&logoColor=white) |
+| **📱 Mobile QA** | ![Android Studio](https://img.shields.io/badge/-Android%20Studio-%233DDC84?style=flat-square&logo=android-studio&logoColor=white) |
 | **🐙 Versionado** | ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github&logoColor=white) |
 ## 🛠️ Tecnologías y Herramientas
 
