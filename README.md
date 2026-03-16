@@ -40,18 +40,6 @@ aseguramiento de calidad y colaborar en la entrega de productos confiables y bie
 ![TestRail](https://img.shields.io/badge/TestRail-65C179?style=for-the-badge)
 ## 📂 Proyectos
 
-#### 🔗 [Pruebas de API - Urban Grocers]
-> Diseñé y ejecuté pruebas de API para múltiples endpoints del sistema, lo que resultó en la validación de operaciones
-como creación de kits y agregación de productos, usando Postman para enviar solicitudes HTTP (GET, POST) y
-verificar respuestas en formato JSON.
-
-> Analicé respuestas de la API y validé códigos de estado, estructura de datos y reglas de negocio, lo que resultó en la
-detección y documentación de defectos, usando Google Sheets y gestionando su seguimiento en Jira.
-* **Stack:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-* 🛠️ **Enfoque:** Pruebas de caja negra, validación de endpoints y códigos de estado.
-
-## 🚀 Proyectos Destacados
-
 ### 🔗 [Pruebas de API - Urban Grocers](https://github.com/tu-usuario/urban-grocers-api) | TripleTen (2026)
 
 > Proyecto enfocado en la validación integral de servicios backend mediante pruebas de caja negra y análisis de protocolos HTTP.
