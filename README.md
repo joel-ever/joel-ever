@@ -12,7 +12,7 @@ constante de los procesos de prueba.
 Actualmente busco una oportunidad como QA Engineer donde pueda seguir desarrollando mis habilidades en
 aseguramiento de calidad y colaborar en la entrega de productos confiables y bien documentados.
 
-### 🧠 Habilidades Técnicas
+## 🧠 Habilidades Técnicas
 
 | Categoría | Herramientas & Tecnologías |
 | :--- | :--- |
