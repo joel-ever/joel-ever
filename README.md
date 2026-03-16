@@ -1,13 +1,6 @@
 # 👋 Hola, soy Joel Ever
-## 🚀 Sobre mí
-<div align="left">
-  <h2>
-    <img src="https://img.shields.io/badge/PERFIL-SOBRE%20MÍ-0052CC?style=for-the-badge&logo=github&logoColor=white" />
-  </h2>
-</div>
-
+🚀 Sobre mí
 ---
-## ![Skills](https://img.shields.io/badge/Stack-Habilidades%20Técnicas-blueviolet?style=for-the-badge&logo=gitbook&logoColor=white)
 💻 QA Engineer con experiencia en pruebas de software en entornos ágiles, participando en el diseño y ejecución de casos
 de prueba manuales y en el apoyo a procesos de automatización. Familiarizado con el reporte y seguimiento de defectos,
 asegurando la correcta documentación y comunicación con equipos de desarrollo para mejorar la calidad del producto.
