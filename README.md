@@ -44,6 +44,6 @@ aseguramiento de calidad y colaborar en la entrega de productos confiables y bie
 🔹 Diseño de Casos de Prueba y Pruebas de Regresión
 ## 📬 Contacto & Redes
 * ✉️ **Email:** [joele1819@gmail.com](mailto:joele1819@gmail.com)
-* 💼 **LinkedIn:** [Tu Nombre Profesional](https://www.linkedin.com/in/joel-ever)
+* 💼 **LinkedIn:** [joel-ever](https://www.linkedin.com/in/joel-ever)
 
 
