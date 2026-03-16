@@ -42,6 +42,19 @@ aseguramiento de calidad y colaborar en la entrega de productos confiables y bie
 🔹 Urban Grocers – API Testing con Postman  
 🔹 Urban Routes – Pruebas Web Manuales  
 🔹 Diseño de Casos de Prueba y Pruebas de Regresión
+### 🚀 Proyectos Destacados
+
+#### 🔗 [Urban Grocers – Pruebas de API REST](https://github.com/tu-usuario/nombre-repo)
+> Automatización de pruebas para validar el comportamiento del campo `name` en la creación de kits de productos.
+* **Stack:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+* 🛠️ **Enfoque:** Pruebas de caja negra, validación de endpoints y códigos de estado.
+
+---
+
+#### 🚕 [Urban Routes – Pruebas Web y Móvil](https://github.com/tu-usuario/nombre-repo)
+> Validación funcional del proceso de solicitud de taxi, incluyendo dirección, confirmación y asignación de conductor.
+* **Stack:** ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white) ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+* 🛠️ **Enfoque:** Automatización UI, pruebas de usabilidad y flujo completo del cliente.
 ## 📬 Contacto & Redes
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joele1819@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-ever)
