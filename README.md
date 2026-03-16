@@ -44,8 +44,12 @@ aseguramiento de calidad y colaborar en la entrega de productos confiables y bie
 🔹 Diseño de Casos de Prueba y Pruebas de Regresión
 ### 🚀 Proyectos Destacados
 
-#### 🔗 [Urban Grocers – Pruebas de API REST](https://github.com/tu-usuario/nombre-repo)
-> Automatización de pruebas para validar el comportamiento del campo `name` en la creación de kits de productos.
+#### 🔗 [Pruebas de API - Urban Grocers](https://github.com/tu-usuario/nombre-repo)
+> Diseñé y ejecuté pruebas de API para múltiples endpoints del sistema, lo que resultó en la validación de operaciones
+como creación de kits y agregación de productos, usando Postman para enviar solicitudes HTTP (GET, POST) y
+verificar respuestas en formato JSON.
+>Analicé respuestas de la API y validé códigos de estado, estructura de datos y reglas de negocio, lo que resultó en la
+detección y documentación de defectos, usando Google Sheets y gestionando su seguimiento en Jira.
 * **Stack:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 * 🛠️ **Enfoque:** Pruebas de caja negra, validación de endpoints y códigos de estado.
 
