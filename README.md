@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0052CC&center=true&vCenter=true&width=435&lines=QA+Automation+Engineer;Manual+Tester+Professional;Software+Quality+Specialist" alt="Typing SVG" />
 </p>
-# 👋 Hola, soy Joel Ever
 ## 🚀 Sobre mí
 💻 QA Engineer con experiencia en pruebas de software en entornos ágiles, participando en el diseño y ejecución de casos
 de prueba manuales y en el apoyo a procesos de automatización. Familiarizado con el reporte y seguimiento de defectos,
