@@ -43,12 +43,6 @@ aseguramiento de calidad y colaborar en la entrega de productos confiables y bie
 🔹 Urban Routes – Pruebas Web Manuales  
 🔹 Diseño de Casos de Prueba y Pruebas de Regresión
 ## 📬 Contacto & Redes
-<p align="left">
-  <a href="mailto:joele1819@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/TU_USUARIO" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+* ✉️ **Email:** [parana2809@gmail.com](mailto:parana2809@gmail.com)
+* 💼 **LinkedIn:** [Tu Nombre Profesional](https://www.linkedin.com/in/tu-usuario)
 
