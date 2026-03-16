@@ -50,6 +50,25 @@ detección y documentación de defectos, usando Google Sheets y gestionando su s
 * **Stack:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 * 🛠️ **Enfoque:** Pruebas de caja negra, validación de endpoints y códigos de estado.
 
+## 🚀 Proyectos Destacados
+
+### 🔗 [Pruebas de API - Urban Grocers](https://github.com/tu-usuario/urban-grocers-api) | TripleTen (2026)
+
+> Proyecto enfocado en la validación integral de servicios backend mediante pruebas de caja negra y análisis de protocolos HTTP.
+
+* **🎯 Desempeño y Logros:**
+    * **Diseño y Ejecución:** Validé múltiples endpoints críticos (creación de kits y agregación de productos) enviando solicitudes **HTTP (GET, POST)** y asegurando la integridad de las respuestas en formato **JSON**.
+    * **Análisis Técnico:** Verifiqué códigos de estado, estructuras de datos y reglas de negocio, logrando una detección temprana de anomalías.
+    * **Gestión de Calidad:** Documenté y reporté defectos detalladamente usando **Google Sheets** y aseguré su ciclo de vida mediante el seguimiento en **Jira**.
+
+* **🛠️ Herramientas & Skills:**
+    ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
+    ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
+    ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=white)
+    ![API Testing](https://img.shields.io/badge/-API%20Testing-blue?style=flat)
+
+* **🏗️ Enfoque:** Pruebas de caja negra, validación de endpoints y análisis de esquemas.
+
 ---
 
 #### 🚕 [Urban Routes – Pruebas Web y Móvil](https://github.com/tu-usuario/nombre-repo)
