@@ -24,6 +24,33 @@ aseguramiento de calidad y colaborar en la entrega de productos confiables y bie
 
 📱 Plataformas Móviles: Android Studio
 
+# 🚀 QA Automation Engineer | Joel
+
+### 📬 Contacto & Redes
+<p align="left">
+<a href="mailto:joele1819@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/TU-USUARIO" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</p>
+
+---
+
+### 🧠 Habilidades Técnicas
+
+| Categoría | Herramientas & Tecnologías |
+| :--- | :--- |
+| **🤖 Automatización** | ![Selenium](https://img.shields.io/badge/-Selenium-%2343B02A?style=flat-square&logo=selenium&logoColor=white) ![Cypress](https://img.shields.io/badge/-Cypress-%2317202C?style=flat-square&logo=cypress&logoColor=white) |
+| **🐍 Lenguajes & DB** | ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-%23CC2927?style=flat-square&logo=sqlite&logoColor=white) |
+| **🔌 API Testing** | ![Postman](https://img.shields.io/badge/-Postman-%23FF6C37?style=flat-square&logo=postman&logoColor=white) ![Apidog](https://img.shields.io/badge/-Apidog-%2300C2C2?style=flat-square) |
+| **📱 Mobile QA** | ![Android Studio](https://img.shields.io/badge/-Android%20Studio-%233DDC84?style=flat-square&logo=android-studio&logoColor=white) |
+| **🐙 Versionado** | ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github&logoColor=white) |
+
+---
+
+### ⚖️ Calidad de Software & Metodologías
+- **Pruebas:** `Funcionales` | `No Funcionales` | `Regresión`
+- **Metodologías:** `Agile` | `Scrum` | ![Jira](https://img.shields.io/badge/-Jira-%230052CC?style=flat-square&logo=jira&logoColor=white)
+
+---
 ## 🛠️ Tecnologías y Herramientas
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
