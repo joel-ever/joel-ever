@@ -25,6 +25,13 @@ aseguramiento de calidad y colaborar en la entrega de productos confiables y bie
 📱 Plataformas Móviles: Android Studio
 
 🐙 Control de Versiones: Git | GitHub
+Categoría,Herramientas y Tecnologías
+🤖 Automatización,Selenium • Cypress
+🐍 Desarrollo & DB,Python • SQL
+🔌 API Testing,Postman • Apidog
+📱 Mobile QA,Android Studio
+🐙 Versionado,Git • GitHub
+
 ## 🛠️ Tecnologías y Herramientas
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
