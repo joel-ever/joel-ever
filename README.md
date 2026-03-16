@@ -33,7 +33,14 @@ aseguramiento de calidad y colaborar en la entrega de productos confiables y bie
 </p>
 
 ---
+### 🏃 Metodologías y Gestión
 
+![Agile](https://img.shields.io/badge/Methodology-Agile-blue?style=for-the-badge&logo=gitbook&logoColor=white)
+![Scrum](https://img.shields.io/badge/Framework-Scrum-orange?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Jira](https://img.shields.io/badge/Tool-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+- **Agile & Scrum:** Gestión de ciclos de vida de desarrollo con entregas iterativas y mejora continua.
+- **Jira Software:** Seguimiento de tickets, gestión de Backlog y reporte detallado de bugs.
 ### 🧠 Habilidades Técnicas
 
 | Categoría | Herramientas & Tecnologías |
