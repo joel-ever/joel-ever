@@ -1,8 +1,8 @@
 # <p align="center">👋 Hola, soy Joel Ever</p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0052CC&center=true&vCenter=true&width=435&lines=QA+Automation+Engineer;Manual+Tester+Professional;Software+Quality+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0052CC&center=true&vCenter=true&width=435&lines=QA+Engineer;Software+Testing;Software+Quality+Specialist" alt="Typing SVG" />
 </p>
-
+QA Engineer | Software Testing | Automation | API Testing
 **QA Engineer** con experiencia en pruebas de software en entornos ágiles, participando en el diseño y ejecución de casos de prueba manuales y en el apoyo a procesos de automatización. Familiarizado con el reporte y seguimiento de defectos, asegurando la correcta documentación y comunicación con equipos de desarrollo para mejorar la calidad del producto.
 
 He trabajado con herramientas como **Postman, Selenium, Playwright, Jira, Figma y SQL** para validar funcionalidades, revisar flujos de usuario y apoyar en la verificación de datos. Me caracterizo por mi atención al detalle, pensamiento analítico y disposición para aprender continuamente.
