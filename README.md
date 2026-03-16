@@ -46,7 +46,7 @@ aseguramiento de calidad y colaborar en la entrega de productos confiables y bie
 * ✉️ **Email:** [parana2809@gmail.com](mailto:parana2809@gmail.com)
 * 💼 **LinkedIn:** [Tu Nombre Profesional](https://www.linkedin.com/in/tu-usuario)
 
-### 🤝 Conectemos
+### 📬 Contacto & Redes
 
-* <img src="https://raw.githubusercontent.com/rahultk31/rahultk31/master/assets/gmail.it.png" width="20px"> **Correo:** [parana2809@gmail.com](mailto:parana2809@gmail.com)
-* <img src="https://raw.githubusercontent.com/rahultk31/rahultk31/master/assets/linkedin.it.png" width="20px"> **LinkedIn:** [Tu Nombre Profesional](https://www.linkedin.com/in/TU_USUARIO)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parana2809@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU_USUARIO)
