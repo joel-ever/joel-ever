@@ -57,12 +57,25 @@ aseguramiento de calidad y colaborar en la entrega de productos confiables y bie
 
 * **🏗️ Enfoque:** Pruebas de caja negra, validación de endpoints y análisis de esquemas.
 
----
+### 🚕 [Pruebas de Aplicaciones Web - Urban Routes](https://github.com/tu-usuario/urban-routes-testing) | TripleTen (2026)
 
-#### 🚕 [Urban Routes – Pruebas Web y Móvil](https://github.com/tu-usuario/nombre-repo)
-> Validación funcional del proceso de solicitud de taxi, incluyendo dirección, confirmación y asignación de conductor.
-* **Stack:** ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white) ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-* 🛠️ **Enfoque:** Automatización UI, pruebas de usabilidad y flujo completo del cliente.
+> Validación integral del flujo crítico de reserva de transporte, asegurando la calidad en múltiples navegadores y entornos.
+
+* **🎯 Desempeño y Logros:**
+    * **Verificación de Interfaz & UI:** Desarrollé listas de comprobación detalladas para los módulos de "Método de Pago" y "Agregar Tarjeta", ejecutando **92 verificaciones** de funcionalidad y diseño.
+    * **Pruebas End-to-End (E2E):** Diseñé y ejecuté casos de prueba para el flujo completo del botón “Reservar”, garantizando que la lógica de reserva de automóviles funcionara sin errores de principio a fin.
+    * **Compatibilidad & Gestión:** Identifiqué y documenté defectos críticos mediante pruebas de compatibilidad en **Google Chrome** y **Mozilla Firefox**, gestionando su ciclo de vida en **Jira**.
+
+* **🛠️ Herramientas & Skills:**
+    ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
+    ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+    ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
+    ![Chrome](https://img.shields.io/badge/-Chrome-4285F4?style=flat&logo=googlechrome&logoColor=white)
+    ![Firefox](https://img.shields.io/badge/-Firefox-FF7139?style=flat&logo=firefoxbrowser&logoColor=white)
+
+* **🏗️ Enfoque:** Análisis de requisitos, Diseño de casos de prueba (Test Cases), Listas de comprobación (Checklists) y Reporte de bugs.
+
+---
 ## 📬 Contacto & Redes
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joele1819@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-ever)
