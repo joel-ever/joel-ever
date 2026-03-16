@@ -56,7 +56,7 @@ aseguramiento de calidad y colaborar en la entrega de productos confiables y bie
     ![API Testing](https://img.shields.io/badge/-API%20Testing-blue?style=flat)
 
 * **🏗️ Enfoque:** Pruebas de caja negra, validación de endpoints y análisis de esquemas.
-
+---
 ### 🚕 [Pruebas de Aplicaciones Web - Urban Routes](https://github.com/tu-usuario/urban-routes-testing) | TripleTen (2026)
 
 > Validación integral del flujo crítico de reserva de transporte, asegurando la calidad en múltiples navegadores y entornos.
@@ -74,6 +74,23 @@ aseguramiento de calidad y colaborar en la entrega de productos confiables y bie
     ![Firefox](https://img.shields.io/badge/-Firefox-FF7139?style=flat&logo=firefoxbrowser&logoColor=white)
 
 * **🏗️ Enfoque:** Análisis de requisitos, Diseño de casos de prueba (Test Cases), Listas de comprobación (Checklists) y Reporte de bugs.
+---
+### 🧠 [Diseño de Pruebas - Urban Routes](https://github.com/tu-usuario/urban-routes-design) | TripleTen (2026)
+
+> Enfoque estratégico en la lógica de negocio y validación de datos mediante técnicas avanzadas de diseño de pruebas y modelado de requisitos.
+
+* **🎯 Desempeño y Logros:**
+    * **Modelado Visual:** Diseñé mapas mentales en **draw.io** para la función de "Licencia de conducir" y lógica de velocidad, optimizando la comprensión de los requisitos de interfaz y el cálculo de tarifas.
+    * **Técnicas de Diseño:** Apliqué **Clases de Equivalencia y Valores Límite** para blindar los formularios de entrada, garantizando la correcta validación de datos en campos críticos de nombre y apellido.
+    * **Validación de Lógica de Negocio:** Desarrollé casos de prueba específicos para verificar la precisión en el cálculo de **precio y duración** del servicio, asegurando que el sistema responda correctamente a las reglas del negocio.
+
+* **🛠️ Herramientas & Skills:**
+    ![Draw.io](https://img.shields.io/badge/-Draw.io-F08705?style=flat&logo=diagrams.net&logoColor=white)
+    ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
+    ![Test Design](https://img.shields.io/badge/-Test%20Design-blueviolet?style=flat)
+    ![Logic Validation](https://img.shields.io/badge/-Logic%20Validation-FFD700?style=flat&logoColor=black)
+
+* **🏗️ Enfoque:** Análisis de requisitos, Clases de Equivalencia, Valores Límite y Documentación de Pruebas.
 
 ---
 ## 📬 Contacto & Redes
