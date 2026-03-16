@@ -26,21 +26,6 @@ aseguramiento de calidad y colaborar en la entrega de productos confiables y bie
 
 # 🚀 QA Automation Engineer | Joel
 
-### 📬 Contacto & Redes
-<p align="left">
-<a href="mailto:joele1819@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/TU-USUARIO" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</p>
-
----
-### 🏃 Metodologías y Gestión
-
-![Agile](https://img.shields.io/badge/Methodology-Agile-blue?style=for-the-badge&logo=gitbook&logoColor=white)
-![Scrum](https://img.shields.io/badge/Framework-Scrum-orange?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![Jira](https://img.shields.io/badge/Tool-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
-- **Agile & Scrum:** Gestión de ciclos de vida de desarrollo con entregas iterativas y mejora continua.
-- **Jira Software:** Seguimiento de tickets, gestión de Backlog y reporte detallado de bugs.
 ### 🧠 Habilidades Técnicas
 
 | Categoría | Herramientas & Tecnologías |
@@ -77,6 +62,11 @@ aseguramiento de calidad y colaborar en la entrega de productos confiables y bie
 🔹 Urban Grocers – API Testing con Postman  
 🔹 Urban Routes – Pruebas Web Manuales  
 🔹 Diseño de Casos de Prueba y Pruebas de Regresión
+## 📬 Contacto & Redes
+<p align="left">
+<a href="mailto:joele1819@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/TU-USUARIO" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</p>
 ## 📬 Contacto & Redes
 📧 Email: joele1819@gmail.com
 
