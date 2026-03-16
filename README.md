@@ -2,69 +2,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0052CC&center=true&vCenter=true&width=435&lines=QA+Automation+Engineer;Manual+Tester+Professional;Software+Quality+Specialist" alt="Typing SVG" />
 </p>
-
-## 🚀 <img src="https://img.shields.io/badge/PERFIL-SOBRE%20MÍ-0052CC?style=for-the-badge" />
----
-**QA Engineer** con experiencia en pruebas de software en entornos ágiles, participando en el diseño y ejecución de casos de prueba manuales y en el apoyo a procesos de automatización. Familiarizado con el reporte y seguimiento de defectos, asegurando la correcta documentación y comunicación con equipos de desarrollo para mejorar la calidad del producto.
-
-He trabajado con herramientas como **Postman, Selenium, Playwright, Jira, Figma y SQL** para validar funcionalidades, revisar flujos de usuario y apoyar en la verificación de datos. Me caracterizo por mi atención al detalle, pensamiento analítico y disposición para aprender continuamente.
-
-<br />
-
-## 🧠 <img src="https://img.shields.io/badge/STACK-HABILIDADES%20TÉCNICAS-blueviolet?style=for-the-badge" />
----
-
-| Categoría | Herramientas & Tecnologías |
-| :--- | :--- |
-| **🤖 Automatización** | ![Selenium](https://img.shields.io/badge/-Selenium-%2343B02A?style=flat-square&logo=selenium&logoColor=white) ![Cypress](https://img.shields.io/badge/-Cypress-%2317202C?style=flat-square&logo=cypress&logoColor=white) |
-| **🐍 Lenguajes & DB** | ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-%23CC2927?style=flat-square&logo=sqlite&logoColor=white) |
-| **🔌 API Testing** | ![Postman](https://img.shields.io/badge/-Postman-%23FF6C37?style=flat-square&logo=postman&logoColor=white) ![Apidog](https://img.shields.io/badge/-Apidog-%2300C2C2?style=flat-square) |
-| **⚖️ Calidad (QA)** | ![Regresión](https://img.shields.io/badge/-Pruebas%20de%20Regresión-blueviolet?style=flat-square) ![Funcionales](https://img.shields.io/badge/-Funcionales%20y%20No%20Funcionales-444444?style=flat-square) |
-| **🏃 Metodologías** | ![Agile](https://img.shields.io/badge/-Agile-blue?style=flat-square) ![Scrum](https://img.shields.io/badge/-Scrum-orange?style=flat-square) ![Jira](https://img.shields.io/badge/-Jira-%230052CC?style=flat-square&logo=jira&logoColor=white) |
-| **📱 Mobile QA** | ![Android Studio](https://img.shields.io/badge/-Android%20Studio-%233DDC84?style=flat-square&logo=android-studio&logoColor=white) |
-| **🐙 Versionado** | ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github&logoColor=white) |
-
-<br />
-
-## 📂 <img src="https://img.shields.io/badge/PORTAFOLIO-PROYECTOS-2E8B57?style=for-the-badge" />
----
-
-### 🔌 [Pruebas de API - Urban Grocers](https://github.com/joel-ever/urban-grocers-api)
-> Validación integral de servicios backend mediante pruebas de caja negra y análisis de protocolos HTTP.
-* **🎯 Logros:** Validación de endpoints críticos y detección temprana de anomalías en respuestas JSON.
-* **🛠️ Herramientas:** ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white) ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=white)
-
-### 🚕 [Pruebas Web - Urban Routes](https://github.com/joel-ever/urban-routes-web)
-> Validación del flujo crítico de reserva de transporte en múltiples navegadores.
-* **🎯 Logros:** Ejecución de 92 verificaciones de interfaz y validación End-to-End del proceso de reserva.
-* **🛠️ Herramientas:** ![Chrome](https://img.shields.io/badge/-Chrome-4285F4?style=flat&logo=googlechrome&logoColor=white) ![Firefox](https://img.shields.io/badge/-Firefox-FF7139?style=flat&logo=firefoxbrowser&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
-### 🧠 [Diseño de Pruebas - Urban Routes](https://github.com/joel-ever/urban-routes-design)
-> Enfoque estratégico en la lógica de negocio usando técnicas avanzadas de diseño.
-* **🎯 Logros:** Aplicación de Clases de Equivalencia y Valores Límite; modelado de mapas mentales en Draw.io.
-* **🛠️ Herramientas:** ![Draw.io](https://img.shields.io/badge/-Draw.io-F08705?style=flat&logo=diagrams.net&logoColor=white) ![TestDesign](https://img.shields.io/badge/-Test%20Design-blue?style=flat)
-
-### 🔄 [Pruebas de Regresión - Urban Routes](https://github.com/joel-ever/urban-routes-regression)
-> Garantía de estabilidad continua tras actualizaciones críticas del sistema.
-* **🎯 Logros:** Estandarización de documentación y detección de regresiones post-update.
-* **🛠️ Herramientas:** ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white) ![Regression](https://img.shields.io/badge/-Regression-blueviolet?style=flat)
-
-<br />
-
-## 📬 <img src="https://img.shields.io/badge/CONTACTO-CONECTEMOS-D14836?style=for-the-badge" />
----
-<p align="left">
-  <a href="mailto:joele1819@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/joel-ever" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-<p align="center">© 2026 Joel Ever - QA Engineer</p>
-
 # 👋 Hola, soy Joel Ever
 ## 🚀 Sobre mí
 💻 QA Engineer con experiencia en pruebas de software en entornos ágiles, participando en el diseño y ejecución de casos
@@ -178,3 +115,5 @@ aseguramiento de calidad y colaborar en la entrega de productos confiables y bie
 ## 📬 Contacto & Redes
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joele1819@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-ever)
+---
+<p align="center">© 2026 Joel Ever - QA Engineer</p>
