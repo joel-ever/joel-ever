@@ -32,5 +32,5 @@ aseguramiento de calidad y colaborar en la entrega de productos confiables y bie
 🔹 Urban Routes – Pruebas Web Manuales  
 🔹 Diseño de Casos de Prueba y Pruebas de Regresión
 ## 📫 Conecta conmigo
-✉️ Correo: parana2809@gmail.com
-💼 LinkedIn
+🔹 ✉️ Correo:joele1819@gmail.com
+🔹 💼 LinkedIn
