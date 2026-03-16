@@ -3,17 +3,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0052CC&center=true&vCenter=true&width=435&lines=QA+Automation+Engineer;Manual+Tester+Professional;Software+Quality+Specialist" alt="Typing SVG" />
 </p>
 ## 🚀 Sobre mí
-💻 QA Engineer con experiencia en pruebas de software en entornos ágiles, participando en el diseño y ejecución de casos
-de prueba manuales y en el apoyo a procesos de automatización. Familiarizado con el reporte y seguimiento de defectos,
-asegurando la correcta documentación y comunicación con equipos de desarrollo para mejorar la calidad del producto.
 
-He trabajado con herramientas como Postman, Selenium, Playwright, Jira, Figma y SQL para validar funcionalidades,
-revisar flujos de usuario y apoyar en la verificación de datos. Me caracterizo por mi atención al detalle, pensamiento
-analítico y disposición para aprender continuamente, contribuyendo a la detección temprana de errores y a la mejora
-constante de los procesos de prueba.
+**QA Engineer** con experiencia en pruebas de software en entornos ágiles, participando en el diseño y ejecución de casos de prueba manuales y en el apoyo a procesos de automatización. Familiarizado con el reporte y seguimiento de defectos, asegurando la correcta documentación y comunicación con equipos de desarrollo para mejorar la calidad del producto.
 
-Actualmente busco una oportunidad como QA Engineer donde pueda seguir desarrollando mis habilidades en
-aseguramiento de calidad y colaborar en la entrega de productos confiables y bien documentados.
+He trabajado con herramientas como **Postman, Selenium, Playwright, Jira, Figma y SQL** para validar funcionalidades, revisar flujos de usuario y apoyar en la verificación de datos. Me caracterizo por mi atención al detalle, pensamiento analítico y disposición para aprender continuamente.
 
 ## 🧠 Habilidades Técnicas
 
