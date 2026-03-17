@@ -52,7 +52,7 @@ He trabajado con herramientas como **Postman, Selenium, Playwright, Jira, Figma 
 
 * **🏗️ Enfoque:** Pruebas de caja negra, validación de endpoints y análisis de esquemas.
 ---
-### 🚕 [Pruebas de Aplicaciones Web - Urban Routes](https://github.com/tu-usuario/urban-routes-testing) | TripleTen (2026)
+### 🔗 [Pruebas de Aplicaciones Web - Urban Routes](https://docs.google.com/spreadsheets/d/1q_Hh8TB7NYxHXnI5QF5WWVV5BLZiNiKs/edit?usp=drive_link&ouid=116752580959430989031&rtpof=true&sd=true)
 
 > Validación integral del flujo crítico de reserva de transporte, asegurando la calidad en múltiples navegadores y entornos.
 
@@ -70,7 +70,7 @@ He trabajado con herramientas como **Postman, Selenium, Playwright, Jira, Figma 
 
 * **🏗️ Enfoque:** Análisis de requisitos, Diseño de casos de prueba (Test Cases), Listas de comprobación (Checklists) y Reporte de bugs.
 ---
-### 🧠 [Diseño de Pruebas - Urban Routes](https://github.com/tu-usuario/urban-routes-design) | TripleTen (2026)
+### 🔗 [Diseño de Pruebas - Urban Routes](https://docs.google.com/spreadsheets/d/1UGn4Q4vDcGHSme6hJGE7kbk4u3FPpmra/edit?usp=drive_link&ouid=116752580959430989031&rtpof=true&sd=true)
 
 > Enfoque estratégico en la lógica de negocio y validación de datos mediante técnicas avanzadas de diseño de pruebas y modelado de requisitos.
 
@@ -87,7 +87,7 @@ He trabajado con herramientas como **Postman, Selenium, Playwright, Jira, Figma 
 
 * **🏗️ Enfoque:** Análisis de requisitos, Clases de Equivalencia, Valores Límite y Documentación de Pruebas.
 ---
-### 🔄 [Pruebas de Regresión - Urban Routes](https://github.com/tu-usuario/urban-routes-regression) | TripleTen (2026)
+### 🔗 [Pruebas de Regresión - Urban Routes](https://docs.google.com/spreadsheets/d/1hqKYP01IQIr0F4jsxU4LcIgx7q68TnzoTnONa-VJOqc/edit?usp=drive_link)
 
 > Garantía de estabilidad continua mediante la ejecución sistemática de pruebas tras actualizaciones críticas del sistema.
 
