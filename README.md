@@ -8,7 +8,10 @@
 He trabajado con herramientas como **Postman, Selenium, Playwright, Jira, Figma y SQL** para validar funcionalidades, revisar flujos de usuario y apoyar en la verificación de datos. Me caracterizo por mi atención al detalle, pensamiento analítico y disposición para aprender continuamente.
 ## 🚀 Sobre Mí
 🎓 Ingeniero Informático de profesión.
+
 📚 He concluido el bootcamp de Quality Assurance Engineering en TripleTen LATAM, donde desarrollé habilidades en pruebas de software, diseño y ejecución de casos de prueba, validación de APIs y verificación de datos.
+
+💡 Actualmente estoy enfocado en desarrollarme como QA Engineer, aplicando pruebas funcionales, validación de APIs y análisis de datos para contribuir al aseguramiento de la calidad del software.
 
 ## 🧠 Habilidades Técnicas
 
