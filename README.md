@@ -35,7 +35,7 @@ He trabajado con herramientas como **Postman, Selenium, Playwright, Jira, Figma 
 ![TestRail](https://img.shields.io/badge/TestRail-65C179?style=for-the-badge)
 ## 📂 Proyectos
 
-### 🔗 [Pruebas de API - Urban Grocers](https://github.com/tu-usuario/urban-grocers-api) | TripleTen (2026)
+### 🔗 [Pruebas de API - Urban Grocers](https://docs.google.com/spreadsheets/d/1qKpJYVLSmINF5SJ1Z1_AgksL4c08qXVy9LGFC9ssZL0/edit?usp=drive_link)
 
 > Proyecto enfocado en la validación integral de servicios backend mediante pruebas de caja negra y análisis de protocolos HTTP.
 
