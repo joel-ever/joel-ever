@@ -6,6 +6,9 @@
 **QA Engineer** con experiencia en pruebas de software en entornos ágiles, participando en el diseño y ejecución de casos de prueba manuales y en el apoyo a procesos de automatización. Familiarizado con el reporte y seguimiento de defectos, asegurando la correcta documentación y comunicación con equipos de desarrollo para mejorar la calidad del producto.
 
 He trabajado con herramientas como **Postman, Selenium, Playwright, Jira, Figma y SQL** para validar funcionalidades, revisar flujos de usuario y apoyar en la verificación de datos. Me caracterizo por mi atención al detalle, pensamiento analítico y disposición para aprender continuamente.
+## 🚀 Sobre Mí
+🎓 Ingeniero Informático de profesión.
+📚 He concluido el bootcamp de Quality Assurance Engineering en TripleTen LATAM, donde desarrollé habilidades en pruebas de software, diseño y ejecución de casos de prueba, validación de APIs y verificación de datos.
 
 ## 🧠 Habilidades Técnicas
 
